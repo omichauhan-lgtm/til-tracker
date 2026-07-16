@@ -89,7 +89,7 @@ def run_log():
 *Auto-logged via GitHub Actions on {date_str}*
 """
     
-    with open(log_filename, "w") as f:
+    with open(log_filename, "w", encoding="utf-8") as f:
         f.write(content)
         
     print(f"Log generated successfully: {log_filename}")
@@ -97,7 +97,7 @@ def run_log():
     # Append to README.md history table
     readme_content = ""
     if os.path.exists("README.md"):
-        with open("README.md", "r") as f:
+        with open("README.md", "r", encoding="utf-8") as f:
             readme_content = f.read()
             
     history_line = f"| {date_str} | **{topic['category']}** | [{topic['title']}](./{log_filename}) |\n"
@@ -115,7 +115,7 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
     # Check if the date is already logged to prevent duplicates on manual trigger
     if date_str not in readme_content:
         readme_content += history_line
-        with open("README.md", "w") as f:
+        with open("README.md", "w", encoding="utf-8") as f:
             f.write(readme_content)
             
 if __name__ == "__main__":
