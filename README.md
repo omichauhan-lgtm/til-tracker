@@ -11,3 +11,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-07-20 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-07-20.md) |
 | 2026-07-21 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-07-21.md) |
 | 2026-07-22 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-07-22.md) |
+| 2026-07-23 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-07-23.md) |
