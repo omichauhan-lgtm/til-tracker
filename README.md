@@ -14,3 +14,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-07-23 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-07-23.md) |
 | 2026-07-24 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-07-24.md) |
 | 2026-07-25 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-07-25.md) |
+| 2026-07-26 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-07-26.md) |
