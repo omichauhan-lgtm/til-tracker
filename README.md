@@ -16,3 +16,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-07-25 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-07-25.md) |
 | 2026-07-26 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-07-26.md) |
 | 2026-07-27 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-07-27.md) |
+| 2026-07-28 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-07-28.md) |
