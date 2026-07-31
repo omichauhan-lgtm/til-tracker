@@ -19,3 +19,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-07-28 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-07-28.md) |
 | 2026-07-29 | **Caching Systems** | [Redis Event Loop & Memory Eviction Policies](./logs/2026-07-29.md) |
 | 2026-07-30 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-07-30.md) |
+| 2026-07-31 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-07-31.md) |
