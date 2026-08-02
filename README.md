@@ -21,3 +21,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-07-30 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-07-30.md) |
 | 2026-07-31 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-07-31.md) |
 | 2026-08-01 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-08-01.md) |
+| 2026-08-02 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-08-02.md) |
