@@ -26,3 +26,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-04 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-08-04.md) |
 | 2026-08-05 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-08-05.md) |
 | 2026-08-06 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-08-06.md) |
+| 2026-08-07 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-08-07.md) |
