@@ -29,3 +29,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-07 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-08-07.md) |
 | 2026-08-08 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-08-08.md) |
 | 2026-08-09 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-08-09.md) |
+| 2026-08-10 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-08-10.md) |
