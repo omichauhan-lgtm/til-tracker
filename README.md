@@ -32,3 +32,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-10 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-08-10.md) |
 | 2026-08-11 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-08-11.md) |
 | 2026-08-12 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-08-12.md) |
+| 2026-08-13 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-08-13.md) |
