@@ -37,3 +37,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-15 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-08-15.md) |
 | 2026-08-16 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-08-16.md) |
 | 2026-08-17 | **Concurrency Systems** | [Asynchronous Concurrency: Thread Pools vs Event Loops](./logs/2026-08-17.md) |
+| 2026-08-18 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-08-18.md) |
