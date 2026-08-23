@@ -42,3 +42,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-20 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-08-20.md) |
 | 2026-08-21 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-08-21.md) |
 | 2026-08-22 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-08-22.md) |
+| 2026-08-23 | **Concurrency Systems** | [Asynchronous Concurrency: Thread Pools vs Event Loops](./logs/2026-08-23.md) |
