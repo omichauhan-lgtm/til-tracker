@@ -46,3 +46,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-24 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-08-24.md) |
 | 2026-08-25 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-08-25.md) |
 | 2026-08-26 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-08-26.md) |
+| 2026-08-27 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-08-27.md) |
