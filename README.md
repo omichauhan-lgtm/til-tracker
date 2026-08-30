@@ -49,3 +49,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-27 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-08-27.md) |
 | 2026-08-28 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-08-28.md) |
 | 2026-08-29 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-08-29.md) |
+| 2026-08-30 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-08-30.md) |
