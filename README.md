@@ -51,3 +51,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-08-29 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-08-29.md) |
 | 2026-08-30 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-08-30.md) |
 | 2026-08-31 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-08-31.md) |
+| 2026-09-01 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-09-01.md) |
