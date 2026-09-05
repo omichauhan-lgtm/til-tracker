@@ -55,3 +55,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-02 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-09-02.md) |
 | 2026-09-03 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-03.md) |
 | 2026-09-04 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-04.md) |
+| 2026-09-05 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-09-05.md) |
