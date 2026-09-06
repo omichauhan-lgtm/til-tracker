@@ -56,3 +56,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-03 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-03.md) |
 | 2026-09-04 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-04.md) |
 | 2026-09-05 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-09-05.md) |
+| 2026-09-06 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-06.md) |
