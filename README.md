@@ -60,3 +60,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-07 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-07.md) |
 | 2026-09-08 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-09-08.md) |
 | 2026-09-09 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-09-09.md) |
+| 2026-09-10 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-09-10.md) |
