@@ -66,3 +66,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-13 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-09-13.md) |
 | 2026-09-14 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-09-14.md) |
 | 2026-09-15 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-09-15.md) |
+| 2026-09-16 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-09-16.md) |
