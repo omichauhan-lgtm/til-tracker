@@ -69,3 +69,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-16 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-09-16.md) |
 | 2026-09-17 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-09-17.md) |
 | 2026-09-18 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-09-18.md) |
+| 2026-09-19 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-09-19.md) |
