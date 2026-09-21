@@ -71,3 +71,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-18 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-09-18.md) |
 | 2026-09-19 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-09-19.md) |
 | 2026-09-20 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-20.md) |
+| 2026-09-21 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-09-21.md) |
