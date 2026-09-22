@@ -72,3 +72,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-19 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-09-19.md) |
 | 2026-09-20 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-09-20.md) |
 | 2026-09-21 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-09-21.md) |
+| 2026-09-22 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-09-22.md) |
