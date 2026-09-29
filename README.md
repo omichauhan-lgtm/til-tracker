@@ -79,3 +79,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-09-26 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-09-26.md) |
 | 2026-09-27 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-09-27.md) |
 | 2026-09-28 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-09-28.md) |
+| 2026-09-29 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-09-29.md) |
