@@ -84,3 +84,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-10-01 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-10-01.md) |
 | 2026-10-02 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-10-02.md) |
 | 2026-10-03 | **Concurrency Systems** | [Asynchronous Concurrency: Thread Pools vs Event Loops](./logs/2026-10-03.md) |
+| 2026-10-04 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-10-04.md) |
