@@ -85,3 +85,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-10-02 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-10-02.md) |
 | 2026-10-03 | **Concurrency Systems** | [Asynchronous Concurrency: Thread Pools vs Event Loops](./logs/2026-10-03.md) |
 | 2026-10-04 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-10-04.md) |
+| 2026-10-05 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-10-05.md) |
