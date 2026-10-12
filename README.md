@@ -92,3 +92,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-10-09 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-10-09.md) |
 | 2026-10-10 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-10-10.md) |
 | 2026-10-11 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-10-11.md) |
+| 2026-10-12 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-10-12.md) |
