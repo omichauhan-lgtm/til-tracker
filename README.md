@@ -96,3 +96,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-10-13 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-10-13.md) |
 | 2026-10-14 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-10-14.md) |
 | 2026-10-15 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-10-15.md) |
+| 2026-10-16 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-10-16.md) |
