@@ -111,3 +111,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-10-28 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-10-28.md) |
 | 2026-10-29 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-10-29.md) |
 | 2026-10-30 | **Concurrency Systems** | [Asynchronous Concurrency: Thread Pools vs Event Loops](./logs/2026-10-30.md) |
+| 2026-10-31 | **Caching Systems** | [Redis Event Loop & Memory Eviction Policies](./logs/2026-10-31.md) |
