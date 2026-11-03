@@ -114,3 +114,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-10-31 | **Caching Systems** | [Redis Event Loop & Memory Eviction Policies](./logs/2026-10-31.md) |
 | 2026-11-01 | **Storage Engines** | [Log-Structured Merge-Trees (LSM Trees)](./logs/2026-11-01.md) |
 | 2026-11-02 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-11-02.md) |
+| 2026-11-03 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-11-03.md) |
