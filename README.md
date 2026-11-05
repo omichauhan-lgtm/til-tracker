@@ -116,3 +116,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-11-02 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-11-02.md) |
 | 2026-11-03 | **API Architecture** | [Idempotency Keys in Payment & API Gateway Design](./logs/2026-11-03.md) |
 | 2026-11-04 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-11-04.md) |
+| 2026-11-05 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-11-05.md) |
