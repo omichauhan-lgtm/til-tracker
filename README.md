@@ -120,3 +120,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-11-06 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-11-06.md) |
 | 2026-11-07 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-11-07.md) |
 | 2026-11-08 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-11-08.md) |
+| 2026-11-09 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-11-09.md) |
