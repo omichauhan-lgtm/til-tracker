@@ -128,3 +128,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-11-14 | **Data Streaming** | [Kafka Partitioning and Consumer Group Rebalancing](./logs/2026-11-14.md) |
 | 2026-11-15 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-11-15.md) |
 | 2026-11-16 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-11-16.md) |
+| 2026-11-17 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-11-17.md) |
