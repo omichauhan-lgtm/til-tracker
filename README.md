@@ -130,3 +130,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-11-16 | **Data Structures** | [Bloom Filters: Space-Efficient Probabilistic Sets](./logs/2026-11-16.md) |
 | 2026-11-17 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-11-17.md) |
 | 2026-11-18 | **Storage Engines** | [SSTable Compaction: Size-Tiered vs Leveled](./logs/2026-11-18.md) |
+| 2026-11-19 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-11-19.md) |
