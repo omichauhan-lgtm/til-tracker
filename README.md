@@ -133,3 +133,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-11-19 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-11-19.md) |
 | 2026-11-20 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-11-20.md) |
 | 2026-11-21 | **Database Internals** | [Write-Ahead Logging (WAL) and Durability](./logs/2026-11-21.md) |
+| 2026-11-22 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-11-22.md) |
