@@ -136,3 +136,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-11-22 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-11-22.md) |
 | 2026-11-23 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-11-23.md) |
 | 2026-11-24 | **Distributed Systems** | [CAP Theorem: PACELC Extension](./logs/2026-11-24.md) |
+| 2026-11-25 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-11-25.md) |
