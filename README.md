@@ -139,3 +139,4 @@ Automated workspace for logging daily study patterns, system design trade-offs, 
 | 2026-11-25 | **Database Transactions** | [Optimistic vs Pessimistic Concurrency Control](./logs/2026-11-25.md) |
 | 2026-11-26 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-11-26.md) |
 | 2026-11-27 | **System Design** | [Consistent Hashing in Distributed Systems](./logs/2026-11-27.md) |
+| 2026-11-28 | **Data Modeling** | [Star Schema vs Snowflake Schema in Data Warehouses](./logs/2026-11-28.md) |
